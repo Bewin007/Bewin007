@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react, expo, django**
 
-- 📫 How to reach me **bewinfelix@karunya.edu.in**
+- 📫 How to reach me **biwinfelix@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
